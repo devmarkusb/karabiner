@@ -18,6 +18,28 @@
                 },
                 "rules": [
                     {
+                        "description": "Open terminal",
+                        "manipulators": [
+                            {
+                                "from": {
+                                    "key_code": "t",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "left_control",
+                                            "left_option"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "shell_command": "open -aterminal"
+                                    }
+                                ],
+                                "type": "basic"
+                            }
+                        ]
+                    },
+                    {
                         "description": "Home key to the beginning of the line (Control + a)",
                         "manipulators": [
                             {
