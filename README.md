@@ -40,14 +40,17 @@ Note, whenever I said Linux, perhaps I meant Ubuntu.
 
 ## Q&A on general karabiner config
 
-|Question                                   |Answer|
-|-------------------------------------------|------|
-|Which key(s) did I presss?                 |Use the Karabiner EventViewer app, tab Main|
-|How is that frontmost application called?  |Use the Karabiner EventViewer app, tab Frontmost Application|
+| Question                                  | Answer                                                        |
+|-------------------------------------------|---------------------------------------------------------------|
+| Which key(s) did I presss?                | Use the Karabiner EventViewer app, tab Main .                 |
+| How is that frontmost application called? | Use the Karabiner EventViewer app, tab Frontmost Application. |
+| What about that assets folder?            | Showing up when trying to add rules over karabiner GUI.       |
 
 ## todos
 
 (Sorted by prio from high to low.)
 
+* Shift home/end not working in jetbrains
+* multi-select (files)
 * Ctrl-Arrow left/right not yet working in terminal (jumping words)
 * annoying opening of dictation window on some ctrl-? key combination
