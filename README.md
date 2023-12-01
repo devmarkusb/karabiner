@@ -37,3 +37,17 @@ Overall objective: You are working on Linux/Windows on a regular basis and you d
 * working for textedit, vscode, jetbrains
 
 Note, whenever I said Linux, perhaps I meant Ubuntu.
+
+## Q&A on general karabiner config
+
+|Question                                   |Answer|
+|-------------------------------------------|------|
+|Which key(s) did I presss?                 |Use the Karabiner EventViewer app, tab Main|
+|How is that frontmost application called?  |Use the Karabiner EventViewer app, tab Frontmost Application|
+
+## todos
+
+(Sorted by prio from high to low.)
+
+* Ctrl-Arrow left/right not yet working in terminal (jumping words)
+* annoying opening of dictation window on some ctrl-? key combination
