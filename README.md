@@ -63,8 +63,3 @@ Note, whenever I said Linux, perhaps I meant Ubuntu.
 
 (Sorted by prio from high to low.)
 
-* Shift home/end not working in jetbrains (to test, could be resolved)
-* annoying opening of dictation window on some ctrl-? key combination
-* Ctrl-Arrow left/right not yet working in terminal (jumping words; shift even not
-possible under Linux though)
-* multi-select files (with ctrl instead of command)
