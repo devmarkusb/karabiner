@@ -64,3 +64,4 @@ Note, whenever I said Linux, perhaps I meant Ubuntu.
 (Sorted by prio from high to low.)
 
 * Finder: delete file by del key
+* in terminal new tab is with additional Shift in Linux
