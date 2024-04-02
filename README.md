@@ -65,3 +65,4 @@ Note, whenever I said Linux, perhaps I meant Ubuntu.
 
 * Finder: delete file by del key
 * in terminal new tab is with additional Shift in Linux
+* in finder, jetbrains etc. mutli-selection should work using ctrl instead of cmd
