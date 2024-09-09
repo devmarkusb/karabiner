@@ -1728,9 +1728,7 @@
                                 ],
                                 "from": {
                                     "key_code": "t",
-                                    "modifiers": {
-                                        "mandatory": ["control", "shift"]
-                                    }
+                                    "modifiers": { "mandatory": ["control", "shift"] }
                                 },
                                 "to": [
                                     {
@@ -3498,6 +3496,7 @@
                     "to": [{ "key_code": "right_control" }]
                 }
             ]
-        }
+        },
+        { "name": "off" }
     ]
 }
