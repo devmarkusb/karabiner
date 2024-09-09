@@ -1730,7 +1730,7 @@
                                     "key_code": "t",
                                     "modifiers": {
                                         "mandatory": ["control"],
-                                        "optional": ["any"]
+                                        "optional": ["shift"]
                                     }
                                 },
                                 "to": [
