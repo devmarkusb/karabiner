@@ -1729,8 +1729,7 @@
                                 "from": {
                                     "key_code": "t",
                                     "modifiers": {
-                                        "mandatory": ["control"],
-                                        "optional": ["shift"]
+                                        "mandatory": ["control", "shift"]
                                     }
                                 },
                                 "to": [
