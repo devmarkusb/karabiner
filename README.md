@@ -64,4 +64,3 @@ Note, whenever I said Linux, perhaps I meant Ubuntu.
 (Sorted by prio from high to low.)
 
 * Finder: delete file by del key
-* command+up must move the cursor also - how strange is that

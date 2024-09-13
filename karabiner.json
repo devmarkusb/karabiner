@@ -77,103 +77,28 @@
                         ]
                     },
                     {
-                        "description": "Home key to the beginning of the file",
+                        "description": "Home key to the beginning of the file for jetbrains",
                         "manipulators": [
                             {
                                 "conditions": [
                                     {
                                         "bundle_identifiers": [
-                                            "^com\\.microsoft\\.rdc$",
-                                            "^com\\.microsoft\\.rdc\\.",
-                                            "^net\\.sf\\.cord$",
-                                            "^com\\.thinomenon\\.RemoteDesktopConnection$",
-                                            "^com\\.itap-mobile\\.qmote$",
-                                            "^com\\.nulana\\.remotixmac$",
-                                            "^com\\.p5sys\\.jump\\.mac\\.viewer$",
-                                            "^com\\.p5sys\\.jump\\.mac\\.viewer\\.",
-                                            "^com\\.teamviewer\\.TeamViewer$",
-                                            "^com\\.vmware\\.horizon$",
-                                            "^com\\.2X\\.Client\\.Mac$",
-                                            "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
-                                            "^com\\.citrix\\.receiver\\.icaviewer",
-                                            "^com\\.vmware\\.fusion$",
-                                            "^com\\.vmware\\.horizon$",
-                                            "^com\\.vmware\\.view$",
-                                            "^com\\.parallels\\.desktop$",
-                                            "^com\\.parallels\\.vm$",
-                                            "^com\\.parallels\\.desktop\\.console$",
-                                            "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                                            "^com\\.citrix\\.XenAppViewer$",
-                                            "^com\\.vmware\\.proxyApp\\.",
-                                            "^com\\.parallels\\.winapp\\.",
-                                            "^com\\.utmapp\\.UTM$",
-                                            "^com\\.apple\\.Terminal$",
-                                            "^com\\.googlecode\\.iterm2$",
-                                            "^co\\.zeit\\.hyperterm$",
-                                            "^co\\.zeit\\.hyper$",
-                                            "^io\\.alacritty$",
-                                            "^org\\.alacritty$",
-                                            "^net\\.kovidgoyal\\.kitty$",
-                                            "^org\\.mozilla\\.firefox$",
-                                            "^org\\.mozilla\\.firefoxdeveloperedition$",
-                                            "^org\\.mozilla\\.nightly$",
-                                            "^com\\.microsoft\\.Edge",
-                                            "^com\\.microsoft\\.edgemac",
-                                            "^com\\.google\\.Chrome$",
-                                            "^com\\.brave\\.Browser$",
-                                            "^com\\.apple\\.Safari$",
-                                            "^cz\\.or\\.repo\\.git-gui$",
-                                            "^com\\.jetbrains\\.",
-                                            "^org\\.gnu\\.Emacs$",
-                                            "^org\\.gnu\\.AquamacsEmacs$",
-                                            "^org\\.gnu\\.Aquamacs$",
-                                            "^org\\.pqrs\\.unknownapp\\.conkeror$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\.jetbrains\\."
                                         ],
-                                        "type": "frontmost_application_unless"
+                                        "type": "frontmost_application_if"
                                     }
                                 ],
                                 "from": {
                                     "key_code": "home",
                                     "modifiers": {
                                         "mandatory": ["left_control"],
-                                        "optional": ["any"]
+                                        "optional": ["shift"]
                                     }
                                 },
                                 "to": [
                                     {
-                                        "key_code": "up_arrow",
-                                        "modifiers": ["left_command"]
-                                    }
-                                ],
-                                "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "End key to the end of the file",
-                        "manipulators": [
-                            {
-                                "conditions": [
-                                    {
-                                        "bundle_identifiers": [
-                                            "^com\\..*\\.vncviewer$"
-                                        ],
-                                        "type": "frontmost_application_unless"
-                                    }
-                                ],
-                                "from": {
-                                    "key_code": "end",
-                                    "modifiers": {
-                                        "mandatory": ["left_control"],
-                                        "optional": ["any"]
-                                    }
-                                },
-                                "to": [
-                                    {
-                                        "key_code": "down_arrow",
-                                        "modifiers": ["left_command"]
+                                        "modifiers": ["left_command"],
+                                        "key_code": "home"
                                     }
                                 ],
                                 "type": "basic"
@@ -240,7 +165,7 @@
                                 ],
                                 "from": {
                                     "key_code": "home",
-                                    "modifiers": { "optional": ["any"] }
+                                    "modifiers": { "optional": ["shift"] }
                                 },
                                 "to": [
                                     {
@@ -312,7 +237,7 @@
                                 ],
                                 "from": {
                                     "key_code": "end",
-                                    "modifiers": { "optional": ["any"] }
+                                    "modifiers": { "optional": ["shift"] }
                                 },
                                 "to": [
                                     {
@@ -459,7 +384,6 @@
                                             "^org\\.alacritty$",
                                             "^net\\.kovidgoyal\\.kitty$",
                                             "^cz\\.or\\.repo\\.git-gui$",
-                                            "^com\\.jetbrains\\.",
                                             "^org\\.gnu\\.Emacs$",
                                             "^org\\.gnu\\.AquamacsEmacs$",
                                             "^org\\.gnu\\.Aquamacs$",
@@ -616,7 +540,6 @@
                                             "^org\\.alacritty$",
                                             "^net\\.kovidgoyal\\.kitty$",
                                             "^cz\\.or\\.repo\\.git-gui$",
-                                            "^com\\.jetbrains\\.",
                                             "^org\\.gnu\\.Emacs$",
                                             "^org\\.gnu\\.AquamacsEmacs$",
                                             "^org\\.gnu\\.Aquamacs$",
