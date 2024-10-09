@@ -19,11 +19,7 @@
                                     "key_code": "left_option",
                                     "modifiers": { "optional": ["any"] }
                                 },
-                                "to": [
-                                    {
-                                        "key_code": "left_command"
-                                    }
-                                ],
+                                "to": [{ "key_code": "left_command" }],
                                 "type": "basic"
                             }
                         ]
@@ -122,8 +118,8 @@
                                 },
                                 "to": [
                                     {
-                                        "modifiers": ["left_command"],
-                                        "key_code": "home"
+                                        "key_code": "home",
+                                        "modifiers": ["left_command"]
                                     }
                                 ],
                                 "type": "basic"
@@ -3394,15 +3390,11 @@
                                         "type": "frontmost_application_if"
                                     }
                                 ],
-                                "from": {
-                                    "key_code": "delete_forward"
-                                },
+                                "from": { "key_code": "delete_forward" },
                                 "to": [
                                     {
                                         "key_code": "delete_or_backspace",
-                                        "modifiers": [
-                                            "left_command"
-                                        ]
+                                        "modifiers": ["left_command"]
                                     }
                                 ],
                                 "type": "basic"
@@ -3470,7 +3462,8 @@
                     "from": { "key_code": "right_option" },
                     "to": [{ "key_code": "right_control" }]
                 }
-            ]
+            ],
+            "virtual_hid_keyboard": { "keyboard_type_v2": "ansi" }
         },
         {
             "name": "vnc linux",
