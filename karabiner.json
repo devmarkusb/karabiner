@@ -3481,7 +3481,7 @@
                 },
                 {
                     "from": { "key_code": "right_option" },
-                    "to": [{ "key_code": "right_control" }]
+                    "to": [{ "key_code": "right_option" }]
                 }
             ],
             "virtual_hid_keyboard": { "keyboard_type_v2": "iso" }
