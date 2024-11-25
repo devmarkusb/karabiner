@@ -10,7 +10,7 @@
                                 "conditions": [
                                     {
                                         "bundle_identifiers": [
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_if"
                                     }
@@ -31,7 +31,7 @@
                                 "conditions": [
                                     {
                                         "bundle_identifiers": [
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -145,7 +145,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -179,7 +179,7 @@
                                             "^org\\.gnu\\.AquamacsEmacs$",
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp\\.conkeror$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -217,7 +217,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -251,7 +251,7 @@
                                             "^org\\.gnu\\.AquamacsEmacs$",
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp\\.conkeror$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -289,7 +289,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -323,7 +323,7 @@
                                             "^org\\.gnu\\.AquamacsEmacs$",
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp\\.conkeror$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -384,7 +384,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -409,7 +409,7 @@
                                             "^org\\.gnu\\.AquamacsEmacs$",
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp\\.conkeror$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -445,7 +445,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -479,7 +479,7 @@
                                             "^org\\.gnu\\.AquamacsEmacs$",
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp\\.conkeror$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -540,7 +540,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -565,7 +565,7 @@
                                             "^org\\.gnu\\.AquamacsEmacs$",
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp\\.conkeror$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -690,7 +690,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -713,7 +713,7 @@
                                             "^org\\.gnu\\.AquamacsEmacs$",
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp\\.conkeror$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -749,7 +749,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -772,7 +772,7 @@
                                             "^org\\.gnu\\.AquamacsEmacs$",
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp\\.conkeror$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -808,7 +808,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -832,7 +832,7 @@
                                             "^org\\.gnu\\.AquamacsEmacs$",
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp\\.conkeror$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -868,7 +868,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -892,7 +892,7 @@
                                             "^org\\.gnu\\.AquamacsEmacs$",
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp\\.conkeror$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -933,7 +933,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -957,7 +957,7 @@
                                             "^org\\.gnu\\.AquamacsEmacs$",
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp\\.conkeror$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -993,7 +993,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -1017,7 +1017,7 @@
                                             "^org\\.gnu\\.AquamacsEmacs$",
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp\\.conkeror$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -1053,7 +1053,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -1077,7 +1077,7 @@
                                             "^org\\.gnu\\.AquamacsEmacs$",
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp\\.conkeror$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -1183,7 +1183,7 @@
                                 "conditions": [
                                     {
                                         "bundle_identifiers": [
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -1224,7 +1224,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -1248,7 +1248,7 @@
                                             "^org\\.gnu\\.AquamacsEmacs$",
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp\\.conkeror$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -1289,7 +1289,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -1313,7 +1313,7 @@
                                             "^org\\.gnu\\.AquamacsEmacs$",
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp\\.conkeror$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -1354,7 +1354,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -1378,7 +1378,7 @@
                                             "^org\\.gnu\\.AquamacsEmacs$",
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp\\.conkeror$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -1419,7 +1419,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -1443,7 +1443,7 @@
                                             "^org\\.gnu\\.AquamacsEmacs$",
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp\\.conkeror$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -1484,7 +1484,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -1508,7 +1508,7 @@
                                             "^org\\.gnu\\.AquamacsEmacs$",
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp\\.conkeror$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -1549,7 +1549,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -1573,7 +1573,7 @@
                                             "^org\\.gnu\\.AquamacsEmacs$",
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp\\.conkeror$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -1642,7 +1642,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -1665,7 +1665,7 @@
                                             "^org\\.gnu\\.AquamacsEmacs$",
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp\\.conkeror$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -1703,7 +1703,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -1727,7 +1727,7 @@
                                             "^org\\.gnu\\.AquamacsEmacs$",
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp\\.conkeror$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -1763,7 +1763,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -1787,7 +1787,7 @@
                                             "^org\\.gnu\\.AquamacsEmacs$",
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp\\.conkeror$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -1828,7 +1828,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -1852,7 +1852,7 @@
                                             "^org\\.gnu\\.AquamacsEmacs$",
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp\\.conkeror$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -1893,7 +1893,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -1917,7 +1917,7 @@
                                             "^org\\.gnu\\.AquamacsEmacs$",
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp\\.conkeror$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -1953,7 +1953,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -1977,7 +1977,7 @@
                                             "^org\\.gnu\\.AquamacsEmacs$",
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp\\.conkeror$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -2013,7 +2013,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -2037,7 +2037,7 @@
                                             "^org\\.gnu\\.AquamacsEmacs$",
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp\\.conkeror$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -2078,7 +2078,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -2101,7 +2101,7 @@
                                             "^org\\.gnu\\.AquamacsEmacs$",
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp\\.conkeror$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -2142,7 +2142,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -2165,7 +2165,7 @@
                                             "^org\\.gnu\\.AquamacsEmacs$",
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp\\.conkeror$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -2206,7 +2206,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -2219,7 +2219,7 @@
                                             "^com\\.vmware\\.proxyApp\\.",
                                             "^com\\.parallels\\.winapp\\.",
                                             "^com\\.utmapp\\.UTM$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -2257,7 +2257,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -2270,7 +2270,7 @@
                                             "^com\\.vmware\\.proxyApp\\.",
                                             "^com\\.parallels\\.winapp\\.",
                                             "^com\\.utmapp\\.UTM$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -2308,7 +2308,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -2321,7 +2321,7 @@
                                             "^com\\.vmware\\.proxyApp\\.",
                                             "^com\\.parallels\\.winapp\\.",
                                             "^com\\.utmapp\\.UTM$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -2359,7 +2359,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -2372,7 +2372,7 @@
                                             "^com\\.vmware\\.proxyApp\\.",
                                             "^com\\.parallels\\.winapp\\.",
                                             "^com\\.utmapp\\.UTM$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -2410,7 +2410,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -2423,7 +2423,7 @@
                                             "^com\\.vmware\\.proxyApp\\.",
                                             "^com\\.parallels\\.winapp\\.",
                                             "^com\\.utmapp\\.UTM$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -2461,7 +2461,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -2474,7 +2474,7 @@
                                             "^com\\.vmware\\.proxyApp\\.",
                                             "^com\\.parallels\\.winapp\\.",
                                             "^com\\.utmapp\\.UTM$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -2512,7 +2512,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -2525,7 +2525,7 @@
                                             "^com\\.vmware\\.proxyApp\\.",
                                             "^com\\.parallels\\.winapp\\.",
                                             "^com\\.utmapp\\.UTM$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -2561,7 +2561,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -2574,7 +2574,7 @@
                                             "^com\\.vmware\\.proxyApp\\.",
                                             "^com\\.parallels\\.winapp\\.",
                                             "^com\\.utmapp\\.UTM$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -2612,7 +2612,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -2625,7 +2625,7 @@
                                             "^com\\.vmware\\.proxyApp\\.",
                                             "^com\\.parallels\\.winapp\\.",
                                             "^com\\.utmapp\\.UTM$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -2663,7 +2663,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -2676,7 +2676,7 @@
                                             "^com\\.vmware\\.proxyApp\\.",
                                             "^com\\.parallels\\.winapp\\.",
                                             "^com\\.utmapp\\.UTM$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -2709,7 +2709,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -2722,7 +2722,7 @@
                                             "^com\\.vmware\\.proxyApp\\.",
                                             "^com\\.parallels\\.winapp\\.",
                                             "^com\\.utmapp\\.UTM$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -2760,7 +2760,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -2773,7 +2773,7 @@
                                             "^com\\.vmware\\.proxyApp\\.",
                                             "^com\\.parallels\\.winapp\\.",
                                             "^com\\.utmapp\\.UTM$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -3206,7 +3206,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -3230,7 +3230,7 @@
                                             "^org\\.gnu\\.AquamacsEmacs$",
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp\\.conkeror$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -3271,7 +3271,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -3291,7 +3291,7 @@
                                             "^io\\.alacritty$",
                                             "^org\\.alacritty$",
                                             "^net\\.kovidgoyal\\.kitty$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -3332,7 +3332,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-                                            "^com\\..*\\.vncviewer$",
+                                            "^com\\..*vnc.*$",
                                             "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
@@ -3356,7 +3356,7 @@
                                             "^org\\.gnu\\.AquamacsEmacs$",
                                             "^org\\.gnu\\.Aquamacs$",
                                             "^org\\.pqrs\\.unknownapp\\.conkeror$",
-                                            "^com\\..*\\.vncviewer$"
+                                            "^com\\..*vnc.*$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
