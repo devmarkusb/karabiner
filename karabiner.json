@@ -3290,7 +3290,7 @@
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.2X\\.Client\\.Mac$",
                                             "^com\\.OpenText\\.Exceed-TurboX-Client$",
-``                                            "^com\\.citrix\\.receiver\\.icaviewer",
+                                            "^com\\.citrix\\.receiver\\.icaviewer",
                                             "^com\\.vmware\\.fusion$",
                                             "^com\\.vmware\\.horizon$",
                                             "^com\\.vmware\\.view$",
